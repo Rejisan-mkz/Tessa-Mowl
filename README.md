@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/temporary/26f684b39ff9f29c83f6ffa3fc2bfef9.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210927/cae436aa420b8876d8dbb0f0d8c922df.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
